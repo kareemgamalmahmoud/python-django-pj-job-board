@@ -1,0 +1,27 @@
+job :
+    - title
+    - location
+    - description
+    - job type
+    - published at
+    - vacancy
+    - salary
+    - catigory
+
+    - apply job
+    - post job
+
+blog :
+    - title
+    - description
+    - crated at
+    - category
+    - tags
+    - auther
+
+    - search
+    - comment
+    - recent
+
+contact
+home
