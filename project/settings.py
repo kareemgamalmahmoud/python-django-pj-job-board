@@ -36,6 +36,7 @@ INSTALLED_APPS = [
     'job',
     'bootstrap4',
     'accounts',
+    'django_filters',
 
     'django.contrib.admin',
     'django.contrib.auth',
