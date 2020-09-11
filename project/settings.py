@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'accounts',
     'django_filters',
     'contact',
+    'rest_framework',
 
     'django.contrib.admin',
     'django.contrib.auth',
